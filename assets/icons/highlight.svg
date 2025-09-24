@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Highlight</title>
+  <path d="M9 11H15L13 13H11L9 11Z"/>
+  <path d="M9 9V7C9 5.89543 9.89543 5 11 5H13C14.1046 5 15 5.89543 15 7V9"/>
+  <path d="M11 13V19H13V13"/>
+</svg>

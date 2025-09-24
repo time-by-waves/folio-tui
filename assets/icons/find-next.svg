@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Find Next</title>
+  <circle cx="11" cy="11" r="8"/>
+  <path d="M21 21L16.65 16.65"/>
+  <path d="M9 11L11 13L15 9"/>
+</svg>
