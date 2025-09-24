@@ -1,2 +1,2 @@
 # folio-tui
-A fast, keyboard-first PDF viewer for the terminal. Supports page jump, text search with highlights, zoom/rotate, page thumbnails, bookmarks, split view, and theming. Cross-platform, scriptable, and plugin-friendly with a low memory footprint and instant startup.
+Rust TUI for carving big PDFs into clean slices using bookmarks/TOC. Fast, keyboard-first workflow with preview, batch splitting, and metadata carry-over. Extras: PDF→Markdown export and a headless CLI for pipelines. Designed to evolve into a backend for a web app.
