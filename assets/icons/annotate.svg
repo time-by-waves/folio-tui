@@ -1,3 +1,4 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M17 3C17.5304 2.46957 18.2652 2.17171 19.0276 2.17171C19.7899 2.17171 20.5247 2.46957 21.0552 3C21.5856 3.53043 21.8834 4.26524 21.8834 5.02761C21.8834 5.78998 21.5856 6.52479 21.0552 7.05522L7.5 20.5L2 22L3.5 16.5L17 3Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Annotate</title>
+  <path d="M17 3C17.5304 2.46957 18.2652 2.17171 19.0276 2.17171C19.7899 2.17171 20.5247 2.46957 21.0552 3C21.5856 3.53043 21.8834 4.26524 21.8834 5.02761C21.8834 5.78998 21.5856 6.52479 21.0552 7.05522L7.5 20.5L2 22L3.5 16.5L17 3Z"/>
 </svg>
